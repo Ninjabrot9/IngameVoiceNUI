@@ -1,0 +1,131 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: pluginscreen;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: pluginscreen;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#pluginscreen {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background: linear-gradient(225deg, rgb(0, 48, 99) 0%, rgb(0, 40, 83) 100%);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: pluginscreen;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Lovepik_com-611708993-Arched_b {
+	opacity: 0.5;
+	position: absolute;
+	width: 2596px;
+	height: 1499px;
+	left: -23px;
+	top: 24px;
+	overflow: visible;
+}
+#INGAME_VOICE {
+	left: 824px;
+	top: 81px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#VERBINDUNG {
+	left: 820px;
+	top: 144px;
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#pngwingcom_2 {
+	position: absolute;
+	width: 360px;
+	height: 360px;
+	left: 780px;
+	top: 275px;
+	overflow: visible;
+}
+#Icon_awesome-discord {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-discord {
+	overflow: visible;
+	position: absolute;
+	width: 124.949px;
+	height: 142.799px;
+	left: 899.208px;
+	top: 611px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#DISCORDGGRAVECL {
+	left: 766px;
+	top: 776px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#FEHLGESCHLAGEN {
+	left: 766px;
+	top: 192px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#UM_AUF_RAVECRIMELIFE_SPIELEN_Z {
+	left: 483px;
+	top: 881px;
+	position: absolute;
+	overflow: visible;
+	width: 955px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
